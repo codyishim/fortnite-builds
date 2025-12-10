@@ -225,3 +225,8 @@ C2 Season 8
 18.21-CL-18017591 (18.21) : down
 
 18.40-CL-18163738 (18.40) : https://public.simplyblk.xyz/18.40.zip
+
+
+
+
+
